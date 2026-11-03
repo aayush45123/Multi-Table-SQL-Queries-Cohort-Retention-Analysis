@@ -1,0 +1,19 @@
+
+# Raw datasets
+data/raw/
+data/demo/
+
+# Temporary files
+*.log
+*.tmp
+
+# Database backups
+*.sql.bak
+*.dump
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
